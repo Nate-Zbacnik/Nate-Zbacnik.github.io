@@ -31,3 +31,9 @@ span.reverse {
 
 br { 	display: block;
 	margin: 10px 0;}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
