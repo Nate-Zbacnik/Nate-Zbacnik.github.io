@@ -2,7 +2,7 @@
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #f9f9f9;
+    background-color: #ffffff; /* Changed background color to white */
     color: #333;
     line-height: 1.6;
 }
@@ -74,7 +74,7 @@ h2 {
 }
 
 .profile-photo {
-    width: 250px;
+    width: 150px; /* Reduced width to 150px */
     height: auto;
     border-radius: 50%;
     margin-right: 20px;
@@ -120,6 +120,4 @@ footer {
 
     .nav-list li {
         display: block;
-        margin: 10px 0;
-    }
-}
+        
